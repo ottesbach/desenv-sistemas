@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "carne",
+        "quantidade": 15,
+        "preco": 80.0,
+        "em_estoque": true
+    },
+    {
+        "nome": "bolacha",
+        "quantidade": 23,
+        "preco": 90.0,
+        "em_estoque": true
+    }
+]
