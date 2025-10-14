@@ -1,0 +1,2 @@
+#django-admin startproject nome do projeto - criar projeto
+#python manage.py startapp nome do app  - criar app 
