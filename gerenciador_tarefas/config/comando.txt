@@ -5,4 +5,4 @@ python manage.py makemigrations -> Gera as atualizações da model
 
 python manage.py migrate -> aplica alterações
 
-python manage.py runserver -> roda o projeto
+python manage.py runserver -> roda o proje
